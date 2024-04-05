@@ -53,11 +53,11 @@
   <g filter="url(#MyFilter)">
     <path
       fill="none"
-      stroke="#D90000"
-      stroke-width="10"
-      d="M50,66 c-50,0 -50,-60 0,-60 h100 c50,0 50,60 0,60z" />
+      stroke="#D900ff"
+      stroke-width="8"
+      d="M55,66 c-50,0 -50,-60 0,-60 h90 c45,0 50,60 0,60z" />
     <path
-      fill="#D90000"
+      fill="#D9ff00"
       d="M60,56 c-30,0 -30,-40 0,-40 h80 c30,0 30,40 0,40z" />
     <g fill="#FFFFFF" stroke="black" font-size="45" font-family="Verdana">
       <text x="52" y="52">SVG</text>
